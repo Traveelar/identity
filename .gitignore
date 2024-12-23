@@ -1,0 +1,28 @@
+# Node.js
+node_modules/
+.pnp.cjs
+.pnp.loader.mjs
+
+# TypeScript
+dist/
+
+# Logs
+npm-debug.log*
+pnpm-debug.log*
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# IDE-specific
+.vscode/
+.idea/
+
+# Environment Files
+.env
+.env.*
+!.env.sample
+
+# Temporary files
+*.tmp
+*.swp
